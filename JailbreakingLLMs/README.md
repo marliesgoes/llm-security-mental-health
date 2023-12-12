@@ -40,7 +40,7 @@ For GPT3.5 and GPT4 tests, due to budget constraints we took a random subset of 
 
 ### Running on cloud
 
-For convenience, I have attached a jupyter notebook called `JailbreakTest.ipynb` which contains step wise instructions on how to get the code running.
+For convenience, we have attached a jupyter notebook called `jailbreak_experiments.ipynb` in the base repository which contains step wise instructions on how to get the code running.
 
 ### License
 This codebase is released under [MIT License](LICENSE).
